@@ -16,11 +16,14 @@ The intention of this project, was to demonstrate that I have basic Python skill
 Throughout coding this script, I have learned a lot of new things. 
 For example, I never coded a GUI, beacuse I have mainly done backend coding.
 
-I will also provide a screen recording using the script. Thank you for your time.
+Thank you for taking your time.
 
 Best regards,
 
 Florian Hox   
+
+Here are some links, if you want to contact me:
+https://linktr.ee/florian_hx
 
 
 
